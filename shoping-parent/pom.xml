@@ -7,7 +7,6 @@
 	<packaging>pom</packaging>
 	
 	<modules>
-		<module>shoping-common</module>
 		<module>shoping-dao</module>
 		<module>shoping-interface</module>
 		<module>shoping-model</module>
