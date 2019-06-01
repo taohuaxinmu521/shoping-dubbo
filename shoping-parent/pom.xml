@@ -8,7 +8,6 @@
 	
 	<modules>
 		<module>shoping-dao</module>
-		<module>shoping-interface</module>
 		<module>shoping-model</module>
 	</modules>
 	<groupId>com.tanwen.parent</groupId>
